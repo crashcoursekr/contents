@@ -6,9 +6,10 @@ title = "2. Major Sociology Paradigms"
 Author = "Whi Kwon"
 +++
 
-이번 강의에서는 사회학의 주요 3가지 패러다임 Structural funtionalism, Conflict theory, Symbolic interactionism에 대해서 소개합니다.
+2강에서는 사회학의 주요 3가지 패러다임 Structural funtionalism, Conflict theory, Symbolic interactionism에 대해서 소개합니다.
 <!--more-->
 
+{{< youtube ZIwyNIdgJBE >}}
 
 ## **사회학(Sociology)이란?**
 -  사회학의 본질은 무엇인가요? 
@@ -62,7 +63,7 @@ George Herbert Mead, Charles Horton Cooley에 의해 주창된 패러다임입�
 
 - Weber는 사회학은 사람들의 사회적 상황과 그것들의 의미에 초점을 맞춰야 한다고 주장했습니다.
 - 소규모로 집중되기 때문에 symbolic interactionalism은 사회를 일상 사회의 상호관계에서 나오는 산물로 이해합니다.
-- 그리고 우리가 상호 작용과 사물에 의미를 부여할 때 창조하는 세상을 바라봅니다. (예를 들면, 악수나 개를 친구나 음식으로 생각하는 경우가 있습니다.)
+- 그리고 우리가 상호 작용과 사물에 의미를 부여할 때 창조하는 세상을 바라봅니다. (예를 들면, 의례하는 악수나 개를 친구나 음식으로 생각하는 경우가 있습니다.)
 
 ## **마무리**
 위에서 소개한 3가지 패러다임은 각각 우리가 사회를 바라보는 다른 관점들을 제시합니다. 때에 따라 망원경이 필요할 때도 있고 현미경이 필요할 때도 있습니다. 뒤에서 다양한 사회 현상에 대해서 위 패러다임을 통해 살펴보도록 하겠습니다.
